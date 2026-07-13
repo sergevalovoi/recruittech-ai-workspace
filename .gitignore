@@ -1,0 +1,13 @@
+# Личные данные пользователя — не коммитить в общий репозиторий
+notes/*
+!notes/.gitkeep
+metrics-tracker.md
+
+# Экспорты теста профиля
+*.json
+!.claude/settings.json
+!.mcp.json
+
+# Системное
+.DS_Store
+Thumbs.db
